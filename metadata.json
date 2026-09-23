@@ -1,0 +1,8 @@
+{
+  "name": "SIMPEG - Sistem Informasi Manajemen Kepegawaian",
+  "description": "Dashboard Sistem Informasi Kepegawaian terpadu untuk HR/Admin dan Pegawai dengan manajemen data ASN/Karyawan, pengajuan cuti, absensi, kenaikan pangkat, dan arsip dokumen digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
